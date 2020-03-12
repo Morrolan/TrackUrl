@@ -25,7 +25,7 @@ echo "<!DOCTYPE html>
 
 <html>
     <head>
-        <title>Nothing bad will happen here</title>
+        <title>Nothing to see here, move along...</title>
         <style type=\"text/css\">
             
             body {

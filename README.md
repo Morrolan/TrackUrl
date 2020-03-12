@@ -1,2 +1,3 @@
 # TrackUrl
-Made By Z_Hacker
+original by By Z_Hacker
+macOS version by Morrolan
